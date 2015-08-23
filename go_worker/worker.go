@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/Scalingo/go-workers"
+	"github.com/jrallison/go-workers"
 )
 
 func main() {

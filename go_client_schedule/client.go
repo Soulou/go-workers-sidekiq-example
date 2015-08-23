@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/Scalingo/go-workers"
+	"github.com/jrallison/go-workers"
 )
 
 const (
