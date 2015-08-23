@@ -4,7 +4,7 @@
 
 ```
 bundle
-bundle exec sidekiq -r ruby_worker/hello_worker.rb
+bundle exec sidekiq -r ./ruby_worker/hello_worker.rb
 ```
 
 # Sidekiq Client
